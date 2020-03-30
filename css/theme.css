@@ -1,0 +1,19 @@
+
+section{
+    background-color: #7994ab;
+    border: solid #3c3579 2px;
+}
+img{
+    border: solid #3c3578 2px;
+}
+footer{
+    background-color: #7994aa;
+}
+header{
+    background-color: #7994aa;
+    border-bottom: solid #1f1c3f 2px;
+}
+select{
+    background: #1f1c3f;
+    color: aliceblue;
+}
