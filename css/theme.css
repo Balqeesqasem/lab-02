@@ -1,19 +1,18 @@
-
-section{
-    background-color: #7994ab;
-    border: solid #3c3579 2px;
+.photo-template{
+    background-color: #7994AB;
+    border: solid #3C3579 2px;
 }
 img{
-    border: solid #3c3578 2px;
+    border: solid #3C3578 2px;
 }
 footer{
-    background-color: #7994aa;
+    background-color: #7994AA;
 }
 header{
-    background-color: #7994aa;
-    border-bottom: solid #1f1c3f 2px;
+    background-color: #7994AA;
+    border-bottom: solid #1F1C3F 2px;
 }
 select{
-    background: #1f1c3f;
+    background: #1F1C3F;
     color: aliceblue;
 }
